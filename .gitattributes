@@ -1,0 +1,7 @@
+Analysis.py filter=lfs diff=lfs merge=lfs -text
+FastGraph.py filter=lfs diff=lfs merge=lfs -text
+FastGraph_graphs.zip filter=lfs diff=lfs merge=lfs -text
+Hyperparameters.docx filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+SIR.py filter=lfs diff=lfs merge=lfs -text
+Sampled_graphs.zip filter=lfs diff=lfs merge=lfs -text
